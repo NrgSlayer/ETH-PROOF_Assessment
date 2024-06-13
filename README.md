@@ -1,41 +1,22 @@
-# Project Title
+# MyToken Smart Contract
 
-Simple overview of use/purpose.
+A simple Ethereum smart contract for creating and managing a custom token (HELIX). This project demonstrates basic token minting and burning functionalities.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The `MyToken` contract is designed to allow users to mint new tokens and burn existing tokens. It features basic functionalities typical of a cryptocurrency token, including adjusting total supply and tracking individual wallet balances. This contract is part of the ETH-PROOF assessment for the course offered by Metacrafters, aiming to provide hands-on experience with smart contract development.
 
 ## Getting Started
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Clone the repository to your local machine.
+* No modifications are needed after cloning.
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Krish Jaiswal
+* email-krish.jaiswal2182003@gmail.com
 
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
